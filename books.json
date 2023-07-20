@@ -1,0 +1,41 @@
+[
+    {
+        "bookname": "Knowledge Encyclopedia - Art & Architecture",
+        "description": "w were world-famous structures like the Eiffel Tower and Big Ben built? What do the enigmatic Renaissance motifs mean? When did Leonardo da Vinci paint his masterpieces? This encyclopedia on art and architecture will answer these and more hows and whats for you. Learning is made simpler with well-labelled images and an extensive glossary of difficult terms.",
+        "author": "Wonder House Books",
+        "image": "https://m.media-amazon.com/images/I/91ucqCZ0HTL._AC_UY327_FMwebp_QL65_.jpg",
+        "price": 599
+    },
+
+    {
+        "bookname": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+        "description": "In this generation-defining self-help guide, a superstar blogger cuts through the crap to show us how to stop trying to be positive all the time so that we can truly become better, happier people.",
+        "author": " Mark Manson",
+        "image": "https://m.media-amazon.com/images/I/71QKQ9mwV7L._AC_UY327_FMwebp_QL65_.jpg",
+        "price": 483
+    },
+
+    {
+        "bookname": "Animals Tales From Panchtantra: Timeless Stories for Children From Ancient India",
+        "description": "Panchatantra has been a part of the Indian folklore for centuries and continues to enchant young readers even today. The Animal Tales from Panchatantra is a wonderful collection of six stories that aim to guide the young readers about being wise, understand human nature among other moral values. Vibrant and beautiful illustrations will allow the young readers to understand the story better and will encourage reading.",
+        "author": " Wonder House Books",
+        "image": "https://m.media-amazon.com/images/I/71NM33ZCE1L._AC_UY327_FMwebp_QL65_.jpg",
+        "price": 179
+    },
+
+    {
+        "bookname": "Atomic Habits: the life-changing million-copy",
+        "description": "People think that when you want to change your life, you need to think big. But world-renowned habits expert James Clear has discovered another way. He knows that real change comes from the compound effect of hundreds of small decisions: doing two push-ups a day, waking up five minutes early, or holding a single short phone call.",
+        "author": "James Clear",
+        "image": "https://m.media-amazon.com/images/I/91bYsX41DVL._AC_UY327_QL65_.jpg",
+        "price": 460
+    },
+
+    {
+        "bookname": "The Hidden Hindu: Science-Fiction meets Indian mythology in a nail biting thriller set in 2020",
+        "description": "Prithvi, a twenty-one-year-old, is searching for a mysterious middle-aged aghori (Shiva devotee), Om Shastri, who was traced more than 200 years ago before he was captured and transported to a high-tech facility on an isolated Indian island. When the aghori was drugged and hypnotized for interrogation by a team of specialists, he claimed to have witnessed all four yugas (the epochs in Hinduism) and even participated in both Ramayana and Mahabharata. Om's revelations of his incredible past that defied the nature of mortality left everyone baffled. The team also discovers that Om had been in search of the other immortals from every yuga. These bizarre secrets could shake up the ancient beliefs of the present and alter the course of the future. So who is Om Shastri? Why was he captured? Board the boat of Om Shastri's secrets, Prithvi's pursuit and adventures of other enigmatic immortals of Hindu mythology in this exciting and revealing journey.",
+        "author": " Akshat Gupta",
+        "image": "https://m.media-amazon.com/images/I/81ZI8RyyynL._AC_UY327_QL65_.jpg",
+        "price": 170
+    }
+]

@@ -1,0 +1,2 @@
+const mongoose = require('mongoose');
+mongoose.connect("mongodb+srv://arpitappubook:Arpit.2003@cluster0.xmrime1.mongodb.net/BookStore?retryWrites=true&w=majority").then((res) => console.log('connected'));
